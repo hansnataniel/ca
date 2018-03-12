@@ -1,0 +1,8 @@
+v3.1
+1. Change update_id to updated_by
+2. Change create_id to created_by
+3. Change ban to suspended
+
+v3.1.1
+1. Deleting unnecessary comment blocks
+2. Create .env-production file
